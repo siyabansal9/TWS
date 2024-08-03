@@ -6,3 +6,4 @@ git log
 git checkout -b <branch-name>
 git checkout <branch-name>
 git branch
+git remote -v
